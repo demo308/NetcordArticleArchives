@@ -4,8 +4,9 @@ This is a repository to help us organize our content in markdown. This repositor
 ## Archive List
 ### 2022
 - [March (26th - 31st)](https://github.com/NetcordHQ/ArticleArchives/tree/main/2022/March)
-- [April (1st - 30st)](https://github.com/NetcordHQ/ArticleArchives/tree/main/2022/April)
+- [April (1st - 30th)](https://github.com/NetcordHQ/ArticleArchives/tree/main/2022/April)
 - [May (1st - 31st)](https://github.com/NetcordHQ/ArticleArchives/tree/main/2022/May)
+- [June (1st - 30th)](https://github.com/NetcordHQ/ArticleArchives/tree/main/2022/June)
 
 ## Copyright Notice
 This website and its content is copyright of Netcord, protected by DMCA (Digital Millennium Copyright Act), All rights reserved. Any redistribution or reproduction of part or all of the contents in any form is prohibited other than the following:
