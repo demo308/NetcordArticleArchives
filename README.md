@@ -3,7 +3,7 @@ This is a repository to help us organize our content in markdown. This repositor
 
 ## Archive List
 ### 2022
-- [click me to see the list] (https://github.com/demo308/ArticleArchives/tree/main/2022)
+- [click me to see the list](https://github.com/demo308/ArticleArchives/tree/main/2022)
 
 
 ## Copyright Notice
