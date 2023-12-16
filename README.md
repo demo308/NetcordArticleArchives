@@ -1,5 +1,5 @@
 # Article Archives of Netcord
-This is a repository to help us organize our content in markdown. This repository is open to the public, however, the rights to these articles belong to Netcord and their respective writers. 
+This is a repository to archive the old netcord. This repository is open to the public, however, the rights to these articles belong to Netcord and their respective writers. 
 
 ## Archive List
 ### 2022
